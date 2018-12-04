@@ -1,0 +1,136 @@
+body, label, input, button, select {
+  font-family: "Avenir Next" !important;
+  font-weight: 200;
+}
+
+h1, h2, h3, h4 {
+  font-family: "Avenir Next" !important;
+  text-align: center;
+  font-weight: 400; }
+
+td {
+  color: black !important;
+  font-weight:300 !important;
+  width: 50px;
+}
+
+.input_name{
+  color:black !important;
+}
+
+.outer {
+  position: fixed;
+  top: 41px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  overflow: hidden;
+  padding: 0;
+}
+
+#cluster_div{
+  position: fixed;
+  top: 70px;
+  left: -20px;
+  right: 20px;
+  padding:0;
+  height: 100vh;
+  overflow: scroll;
+
+}
+
+#cluster_right {
+  float: right;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  width: -webkit-calc(100% - 360px);
+  width:    -moz-calc(100% - 360px);
+  width:         calc(100% - 360px);
+}
+.navbar {
+  background-color: white;
+}
+
+.form-group {
+  text-align: center;
+  margin: auto;
+  table-layout: fixed;
+  }
+
+#map_panel {
+  /* Appearance */
+  background-color: white;
+  border-radius: 10px;
+  padding: 0 20px 20px 20px;
+  opacity: .90;
+  z-index:1000;
+  overflow-y:scroll;
+  transition: opacity 500ms 1s;
+}
+
+#choice_panel {
+  /* Appearance */
+  background-color: white;
+  border-radius: 10px;
+  padding: 10px 20px 10px 20px;
+  opacity: .90;
+  z-index:1000;
+  transition: opacity 500ms 1s;
+}
+
+#cluster_filters {
+  /* Appearance */
+  background-color: white;
+  border-style: solid;
+  border-color: black;
+  border-radius: 30px;
+  padding: 10px 20px 10px 20px;
+  opacity: .90;
+  z-index:1000;
+  height: 80%;
+  transition: opacity 500ms 1s;
+  overflow-y: scroll;
+}
+
+#map_panel:hover {
+  /* Fade in while hovering */
+  opacity: 0.95;
+  transition-delay: 0;
+}
+
+#choice_panel:hover {
+  /* Fade in while hovering */
+  opacity: 0.95;
+  transition-delay: 0;
+}
+
+#cluster_filters:hover {
+  /* Fade in while hovering */
+  opacity: 0.95;
+  transition-delay: 0;
+}
+
+.nfo {
+  /* Fade in while hovering */
+  font-weight: 500;
+  margin-top: 13px;
+  margin-left:  8px;
+}
+
+#clusters_select_div {
+  height: auto;
+  padding-bottom: 10px;
+}
+
+#clusters_sliders_div {
+  position: absolute;
+  padding-top: 10px;
+  height: 80%;
+  overflow-y: scroll;
+}
+
+#filter_button_div {
+  height: 20%;
+  bottom: 0;
+
+}

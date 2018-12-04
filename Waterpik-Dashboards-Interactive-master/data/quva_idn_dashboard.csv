@@ -1,0 +1,860 @@
+IDN,Definitive IDN ID,QuVA Customer,Final Tier,Number of Hospitals,IDN Total Beds,Sales Rep. Assignment,Geography
+University of Kentucky Health System (AKA UK HealthCare),1657,True,A,4,1394.0,Mike Barr,South
+University of Missouri Health System (AKA MU Health Care),2342,False,B,5,1217.0,Evanna Shopoff,Midwest
+Michigan Medicine (FKA University of Michigan Health System),270657,True,A,5,1650.0,,
+Oklahoma Department Of Mental Health,270658,False,D,6,501.0,,
+Ohio State University Wexner Medical Center (AKA Ohio State University Health System),270661,False,B,5,1639.0,,
+Wake Forest Baptist Health,274053,False,B,6,1397.0,,
+CHI Health (FKA Alegent Creighton Health),274055,False,C,14,1840.0,,
+Alta Hospitals System,274056,False,A,3,659.0,Kat Caminiti,West
+Covenant Health Systems,274057,False,A,3,701.0,DNA,Northeast
+WakeMed Health and Hospitals,274058,False,B,4,1153.0,,
+New Jersey Division Of Mental Health Services (DHS),274061,False,A,4,1541.0,,
+Virginia Department of Behavioral Health And Developmental Services,274069,False,B,11,1559.0,,
+Connecticut Department of Mental Health & Addiction Services (AKA: Connecticut Department of Mental Health),274078,False,D,5,1054.0,,
+Devereux Advanced Behavioral Health,274079,False,C,2,288.0,,
+Gilliard Health Services,274082,False,C,2,79.0,,
+Capital Health,274083,False,C,2,350.0,,
+Inspira Health Network (FKA: South Jersey Healthcare),274085,False,B,3,669.0,DNA,MidAtlantic
+Southeast Georgia Health System,274086,False,C,2,340.0,,
+Sparrow Health System,274087,True,A,5,757.0,,
+St Josephs Healthcare System,274089,False,B,3,1013.0,DNA,MidAtlantic
+Tahoe Forest Health System (Tahoe Forest Hospital District),274090,False,C,2,66.0,,
+Temple University Health System,274091,False,B,4,1136.0,,
+Valley Baptist Health System,274093,False,D,2,675.0,,
+University of Maryland Upper Chesapeake Health (UM UCH),274094,False,C,2,255.0,,
+Bayhealth,274097,False,B,3,605.0,Nassera Vezelis,MidAtlantic
+University of South Alabama Health System,274101,False,D,2,418.0,,
+UMass Memorial Health Care,274104,False,B,8,1480.0,,
+UC Health (University Of Cincinnati Health),274109,False,B,5,1218.0,,
+Truman Medical Centers,274115,True,C,2,536.0,,
+UCLA Health System (AKA UCLA Hospital System),274117,True,A,9,2452.0,Kat Caminiti,West
+University of Washington (UW) Medicine,274119,True,A,4,1374.0,,
+Centura Health,274122,True,C,20,2716.0,,
+Samaritan Health Services,274124,False,D,5,410.0,,
+Hartford HealthCare (AKA Hartford Healthcare Corporation),274125,False,A,8,1934.0,DNA,Northeast
+Valley Health System,274127,False,A,6,760.0,DNA,South
+CHI St Lukes Health (FKA St Lukes Episcopal Health System),274128,True,B,8,1554.0,,
+Ellis Medicine,274131,False,C,2,590.0,,
+Jackson Health System (FL),274134,True,A,6,2495.0,,
+University of Texas System,274141,True,B,3,1058.0,Ty Griffing,Southwest
+Childrens Healthcare of Atlanta,274144,True,A,3,707.0,,
+Cleveland Clinic Health System,274173,False,A,15,2890.0,Nassera Vezelis,Midwest
+AnMed Health System,274177,False,B,4,639.0,,
+Froedtert & The Medical College of Wisconsin,274189,True,A,3,957.0,,
+CHI Franciscan Health,274190,False,C,10,1424.0,,
+CHI Memorial (FKA Memorial Health Care System),274191,False,D,3,621.0,,
+Mercy Health Network (IA),274198,True,C,40,2885.0,,
+Baptist Health System - San Antonio TX,274217,True,B,14,3277.0,,
+Abrazo Community Health Network,274218,False,C,5,867.0,,
+Bethesda Healthcare System,274224,False,B,3,745.0,Mike Barr,South
+Cape Fear Valley Health System (FKA Cumberland County Hospital System),274228,False,B,5,916.0,,
+Centegra Health System,274231,False,B,4,719.0,DNA,Midwest
+Ascension Sacred Heart Health System,274236,True,B,6,876.0,,
+Piedmont Healthcare System,274238,False,A,8,1819.0,Mike Barr,South
+Central Florida Health Alliance,274239,False,D,2,605.0,,
+Franciscan Health (FKA: Franciscan Alliance St Francis Health Services Inc),274241,False,C,15,2361.0,,
+Florida Hospital Healthcare System,274244,True,A,27,7019.0,,
+HealthAlliance of Hudson Valley,274253,False,C,3,351.0,,
+Shriners Hospitals For Children,274254,False,A,19,2964.0,Mike Barr,South
+Childrens Hospital of Wisconsin (FKA: Childrens Health System),274255,False,C,2,340.0,,
+MediSys Health Network,274256,True,C,2,929.0,,
+Community Memorial Health System (Ventura CA),274258,True,C,2,357.0,,
+University of Utah Health Care,274259,True,B,4,1047.0,,
+Lourdes Health System,274263,False,D,2,433.0,,
+Cone Health (FKA Moses Cone Memorial Health),274268,False,A,10,2331.0,Mike Barr,South
+Aspirus System (FKA: Community Health Care Inc),274276,True,B,8,956.0,,
+UNC REX Healthcare (FKA: Rex Healthcare),274280,True,B,4,1126.0,Mike Barr,South
+University of North Carolina (UNC) Health Care,274282,True,A,13,2302.0,,
+St Davids HealthCare (HCA Central & West Texas),274283,False,C,9,2218.0,,
+Saint Thomas Health,274287,True,B,9,1459.0,,
+Lutheran Health Network,274294,False,D,9,1094.0,,
+The MetroHealth System,274297,False,B,4,1075.0,,
+Adena Health System,274298,True,C,3,239.0,,
+Abington - Jefferson Health (FKA: Abington Health),274300,False,C,2,753.0,,
+St Marys Health Care System (GA),274306,False,D,3,256.0,,
+Sisters of Providence Health System,274308,False,D,2,501.0,,
+Mercy Health System of Maine,274311,True,C,2,261.0,,
+Catholic Health,274312,False,A,5,1545.0,DNA,MidAtlantic
+St Peters Health Partners,274314,False,D,4,826.0,,
+Mercy Health System of Southeastern Pennsylvania,274316,False,D,3,673.0,,
+Ascension Lourdes Health Network,274329,True,D,2,57.0,,
+Ascension Providence (FKA Providence Healthcare Network),274330,True,D,3,591.0,,
+Tidelands Health,274337,False,C,2,323.0,,
+McLeod Health,274338,True,B,7,1166.0,,
+Ascension St Vincents Health System,274339,True,D,5,592.0,,
+St Vincent Health,274347,True,C,26,3027.0,,
+Ascension Columbia St Marys Health System,274348,False,D,6,530.0,,
+Ascension Borgess Health,274352,True,D,3,421.0,,
+Ascension St Vincents (FKA St Vincents HealthCare),274354,True,B,3,898.0,,
+Ascension St John Providence Health System,274356,True,B,7,2246.0,,
+Ascension St Marys Of Michigan,274365,True,D,3,298.0,,
+Arnot Health,274370,True,C,3,550.0,,
+Saint Alphonsus Health System,274407,True,D,5,765.0,,
+Mount Carmel Health System,274408,False,D,5,649.0,,
+CHRISTUS Dubuis Health System (AKA CHRISTUS Continuing Care),274413,False,D,6,182.0,,
+Montefiore Health System (AKA Montefiore Medical Center - Health System),2754,False,A,9,3057.0,Nassera Vezelis,MidAtlantic
+United Health Services,2760,False,B,4,793.0,DNA,MidAtlantic
+Trinity Health System (FKA Trinity Medical Center Health System),3174,False,D,3,467.0,,
+Aria - Jefferson Health (FKA: Frankford Health System),3570,False,A,3,780.0,,
+Harris Health System (FKA: Harris County Hospital District),4015,True,D,3,472.0,,
+Memorial Health System (Springfield IL),4682,True,B,4,611.0,,
+Allina Health,4683,True,A,13,2065.0,,
+Steward Health Care System,4684,True,B,37,7263.0,,
+Tenet Healthcare,4685,True,A,38,8858.0,,
+Ascension Seton (FKA Seton Healthcare Family),4689,True,B,13,1512.0,,
+Essentia Health,4690,True,B,16,1786.0,,
+Inova Health System,4692,False,A,7,2218.0,DNA,South
+Adventist Health System,4694,False,B,7,822.0,Evanna Shopoff,South
+Ascension Health,4695,True,B,7,2142.0,,
+Aurora Health Care,4696,False,B,16,2573.0,,
+Atrium Health (FKA Carolinas HealthCare System),4697,True,A,24,4840.0,Mike Barr,South
+Dignity Health (FKA Catholic Healthcare West),4698,True,A,48,9322.0,Kat Caminiti,West
+Baptist Health (Jacksonville FL),4699,False,A,6,1566.0,Mike Barr,South
+Baystate Health,4700,False,B,5,1138.0,,
+Bryan Health,4701,False,A,4,753.0,DNA,Midwest
+CHRISTUS Health,4702,True,D,7,1014.0,,
+Catholic Health Initiatives (CHI),4703,False,D,14,837.0,,
+Christiana Care Health System,4704,True,C,2,1286.0,,
+Duke Health (AKA Duke University Health System),4707,False,A,4,1637.0,Mike Barr,South
+Greenville Health System (FKA Greenville Hospital System University Medical Center),4708,False,A,8,1378.0,Mike Barr,South
+Henry Ford Health System,4709,False,A,8,2341.0,Evanna Shopoff,Midwest
+HCA Healthcare (FKA Hospital Corporation of America),4710,False,D,5,1120.0,,
+UnityPoint Health (FKA: Iowa Health System),4711,False,B,18,1564.0,,
+Trinity Health (FKA CHE Trinity Health),4712,True,B,10,2692.0,,
+Mercy Health (FKA Catholic Health Partners),4715,False,A,23,4003.0,Evanna Shopoff,Midwest
+Sutter Health,4717,False,A,26,3517.0,Kat Caminiti,West
+John Muir Health,4718,True,A,4,988.0,Kat Caminiti,West
+Kettering Health Network (FKA Kettering Adventist Healthcare),4719,False,A,9,1613.0,DNA,Midwest
+Legacy Health,4720,True,B,7,1219.0,,
+McLaren Health Care Corporation,4721,False,A,13,2374.0,DNA,Midwest
+MedStar Health,4722,True,A,11,2819.0,DNA not needed,MidAtlantic
+Sentara Healthcare,4723,True,A,15,2908.0,DNA not needed,South
+MultiCare Health System,4726,False,A,8,1683.0,,
+Intermountain Healthcare,4727,False,A,25,3126.0,Evanna Shopoff,West
+Sharp HealthCare,4728,True,B,7,1308.0,Kat Caminiti,West
+University Hospitals Health System,4729,True,A,18,2402.0,,
+Bon Secours Richmond Health System,4730,False,A,5,900.0,Mike Barr,South
+ProMedica Health System,4731,True,A,13,2123.0,,
+Banner Health,4732,False,A,29,5532.0,Kat Caminiti,Southwest
+WellStar Health System,4733,False,A,11,2988.0,Mike Barr,South
+Baptist Memorial Health Care Corporation,4734,True,A,21,3546.0,,
+OSF HealthCare,4735,False,B,15,2157.0,,
+Novant Health,4736,True,A,14,3102.0,DNA not needed,South
+Mercyhealth (FKA Mercy Health System),4738,False,A,6,4611.0,DNA,Midwest
+Lehigh Valley Health Network,4739,True,B,6,1013.0,,
+Advocate Health Care,4740,False,A,13,3729.0,Evanna Shopoff,Midwest
+Riverside Health System,4741,False,A,8,779.0,DNA,South
+Presbyterian Healthcare Services,4742,False,A,9,1472.0,Kent DeShazo,Southwest
+MaineHealth,4743,True,A,10,1674.0,,
+Northwell Health (AKA North Shore Long Island Jewish Health System),4744,False,A,22,7591.0,Nassera Vezelis,MidAtlantic
+Ascension Wheaton Franciscan Healthcare,4745,True,D,7,1162.0,,
+Beaumont Health System (FKA: Oakwood),4746,True,A,8,3359.0,Evanna Shopoff,Midwest
+Health First,4747,False,B,4,886.0,,
+Geisinger (FKA: Geisinger Health System),4748,True,A,11,3483.0,Nassera Vezelis,MidAtlantic
+Covenant Health,4749,False,B,10,1606.0,,
+The University of Vermont Health Network (FKA Fletcher Allen Partners),4751,False,A,7,1156.0,DNA,Northeast
+Carilion Clinic,4752,True,A,8,1427.0,Evanna Shopoff,South
+Ascension Wisconsin (AKA Affinity Health System),4753,True,D,6,895.0,,
+Sanford Health,4754,True,A,40,5721.0,Kat Caminiti,Midwest
+Gundersen Health System,4755,True,A,9,1363.0,DNA not needed,Midwest
+OhioHealth,4756,True,B,14,1690.0,DNA not needed,Midwest
+Roper St Francis Health System,4757,False,B,4,797.0,Mike Barr,South
+Emory Healthcare,4759,False,A,7,1737.0,Mike Barr,South
+Bon Secours St Francis Health System,4760,False,C,2,496.0,,
+WellSpan Health,4761,False,B,6,1105.0,,
+TriHealth,4762,False,A,6,1084.0,DNA,Midwest
+University of California Davis Health (AKA UC Davis Health),4763,True,C,2,759.0,,
+Yale New Haven Health System,4767,True,A,9,3094.0,Nassera Vezelis,Northeast
+Scripps Health,4768,False,A,6,1565.0,Kat Caminiti,West
+Ochsner Health System,4868,True,A,14,2567.0,,
+CoxHealth,4869,True,D,5,482.0,,
+Broward Health,4870,False,A,5,1470.0,Mike Barr,South
+MemorialCare Health System,4875,False,A,5,1450.0,Kat Caminiti,West
+Cleveland Clinic Akron General (FKA Akron General Health System),4877,False,C,3,590.0,,
+Genesis Health System,4878,False,B,6,808.0,DNA,Midwest
+CHRISTUS Trinity Mother Frances Health System,4879,False,D,6,905.0,,
+Cook Childrens Health Care System,4880,False,C,2,312.0,,
+Lancaster General Health,4881,False,B,4,950.0,,
+Swedish Health Services,4882,False,A,5,1372.0,Kat Caminiti,West
+Kaleida Health,4885,False,A,7,1956.0,DNA,MidAtlantic
+Spectrum Health,4886,True,B,12,1382.0,,
+Appalachian Regional Healthcare (ARH),4887,False,B,11,993.0,,
+Palmetto Health,4888,False,A,6,1727.0,Mike Barr,South
+Renown Health,4889,True,A,5,1577.0,,
+Norton Healthcare,4891,True,B,10,1158.0,,
+Lifespan,4893,True,B,5,846.0,,
+Crozer-Keystone Health System,4894,False,B,5,1081.0,,
+Lahey Health System,4895,False,B,3,659.0,DNA,Northeast
+Bassett Healthcare,4897,False,C,5,452.0,,
+Beacon Health System,4898,False,B,4,1022.0,DNA not needed,Midwest
+INTEGRIS Health,4899,True,A,10,1679.0,Ty Griffing,Southwest
+Park Nicollet Health Services,4900,True,C,2,522.0,,
+ProHealth Care,4902,True,B,3,564.0,,
+Summa Health System,4903,False,B,5,1187.0,,
+Atlantic Health System,4904,False,A,6,1780.0,DNA,MidAtlantic
+Vidant Health (FKA University Health Services),4905,True,B,8,1307.0,,
+VA New England Healthcare System (VISN 1),541795,False,C,10,1560.0,,
+VA New York/New Jersey VA Health Care Network (VISN 2 - FKA VA Health Care Upstate New York),541796,False,C,15,2340.0,,
+VA Healthcare VISN 4 (FKA VA Stars & Stripes Healthcare Network),541798,False,C,10,1560.0,,
+VA Capitol Health Care Network (VISN 5),541799,False,D,7,1092.0,,
+VA Mid - Atlantic Health Care Network (VISN 6),541800,False,D,7,1092.0,,
+VA Southeast Network (VISN 7),541801,False,C,10,1562.0,,
+VA Sunshine Healthcare Network (VISN 8),541802,False,C,8,2013.0,,
+VA MidSouth Healthcare Network (VISN 9),541803,False,D,7,1094.0,,
+Veterans Integrated Service Network 10 (VISN 10 - FKA VA Healthcare System Of Ohio),541804,True,C,12,2386.0,,
+VA Great Lakes Health Care System (VISN 12),541806,False,D,8,1248.0,,
+VA Heartland Network (VISN 15),541807,False,C,9,1404.0,,
+VA South Central VA Health Care Network (VISN 16),541808,False,C,9,1404.0,,
+VA Heart Of Texas Health Care Network (VISN 17),541809,True,D,8,1248.0,,
+VA Rocky Mountain Network (VISN 19),541811,False,C,9,1404.0,,
+VA Northwest Network (VISN 20),541812,False,C,9,1404.0,,
+VA Sierra Pacific Network (VISN 21),541813,False,B,9,1404.0,,
+VA Desert Pacific Healthcare Network (VISN 22),541814,False,D,8,1248.0,,
+VA Midwest Health Care Network (VISN 23),541815,True,C,8,1565.0,,
+Carson Tahoe Regional Healthcare,541844,False,D,3,255.0,,
+University of Mississippi Healthcare,541845,False,A,7,1404.0,Ty Griffing,South
+Vista Health System,541890,False,D,2,257.0,,
+St Elizabeth Healthcare,541900,False,B,6,1136.0,Mike Barr,South
+South Georgia Medical Center Health System,541906,False,D,3,438.0,,
+Mills - Peninsula Health Services,541908,False,C,2,459.0,,
+Salem Health,541909,False,C,2,438.0,,
+St John Health System (FKA Marian Health System),541931,True,D,9,1070.0,,
+Duke LifePoint Healthcare,541933,False,B,15,2379.0,,
+Denver Health,541934,True,C,1,425.0,,
+Houston Healthcare,541935,False,C,2,276.0,,
+Lovelace Health System (FKA: Lovelace Sandia Health System),541948,False,D,6,772.0,,
+Hillcrest Healthcare System,541949,False,D,7,973.0,,
+Southwest Healthcare System,541952,False,C,2,397.0,,
+University Of Texas Southwestern Medical Center,541969,True,C,2,616.0,Ty Griffing,Southwest
+Northeast Georgia Health System,541971,False,A,3,1065.0,,
+Childrens Hospital & Clinics of Minnesota,541972,False,C,2,314.0,,
+Greater Hudson Valley Health System,541979,False,B,3,564.0,DNA,MidAtlantic
+Norman Regional Health System,541980,True,B,4,846.0,,
+Nemours Childrens Health System,541987,False,C,2,360.0,,
+CHI St Joseph Health System,542002,False,D,5,240.0,,
+Prime Healthcare Services,542003,True,A,30,5040.0,Kent DeShazo,West
+Coliseum Health System,542020,False,D,3,399.0,,
+HCA Capital Division - LewisGale Regional Health System,542021,False,D,3,563.0,,
+Vibra Healthcare,542027,False,B,32,2985.0,,
+Anderson Regional Health System,542032,True,D,2,225.0,,
+Covenant Health System,542039,True,B,8,1157.0,,
+Southern Crescent Behavioral Health System,542050,False,D,2,328.0,,
+Manatee Healthcare System,542074,False,C,2,435.0,,
+The Valley Health System (Las Vegas NV),542075,False,A,6,1680.0,Kat Caminiti,West
+Blanchard Valley Health System,542076,False,C,2,175.0,,
+Yavapai Regional Medical Center,542077,False,C,2,364.0,,
+Northwest Health System,542083,False,D,5,678.0,,
+Presence Health,542088,True,A,10,2570.0,Evanna Shopoff,Midwest
+Porter Health Care System,542110,False,D,2,410.0,,
+Huntsville Hospital Health System,542158,True,A,7,1000.0,Mike Barr,South
+UnityPoint Health Meriter (FKA Meriter Health System),542163,False,C,2,317.0,,
+Nebraska Methodist Health System,542164,False,D,3,468.0,,
+Gwinnett Health System,542166,False,C,2,739.0,,
+Ephraim McDowell Health,542175,False,C,3,272.0,,
+Halifax Health,542176,False,B,3,813.0,,
+Olathe Health (FKA: Olathe Health System),542191,False,C,2,265.0,,
+KentuckyOne Health,542193,True,C,16,2437.0,,
+Hays Medical Center Health System,542201,False,C,2,158.0,,
+Mosaic Life Care (FKA: Heartland Health Network),542202,False,C,2,393.0,,
+Vanderbilt University Medical Center System,542209,False,A,3,1309.0,Mike Barr,South
+WVU Medicine,542211,False,B,12,1797.0,Kent DeShazo,South
+Deaconess Health System,542213,True,B,7,1078.0,,
+Coordinated Health,542218,False,C,2,256.0,,
+Centra Health,542221,False,B,5,662.0,DNA,South
+St Joseph Health System (Mishawaka IN),542227,False,D,2,338.0,,
+Maury Regional Health System,542228,False,B,3,312.0,,
+CareGroup Healthcare System,542229,True,C,2,296.0,,
+Mercy Health Muskegon (FKA Mercy Health Partners - Michigan),542231,False,D,4,722.0,,
+Community Health Systems (CHS),542233,False,B,58,8171.0,,
+Ocala Health System (HCA North Florida Division),542234,False,D,2,474.0,,
+Avita Health System,542242,False,D,3,216.0,,
+Bon Secours Hampton Roads Health System,542247,False,A,3,709.0,Mike Barr,South
+Bon Secours Kentucky Health System,542248,False,C,1,151.0,,
+Bon Secours Baltimore Health System,542249,False,D,1,72.0,,
+Verity Health System (FKA Daughters Of Charity Health System),542251,False,A,5,1546.0,Kat Caminiti,West
+DeTar Healthcare System,550002,False,D,2,350.0,,
+South Texas Health System,550004,False,B,6,1462.0,,
+Hendrick Health,550008,True,C,2,525.0,,
+HCA San Antonio Division (AKA Methodist Health System of San Antonio),550016,True,C,11,2801.0,,
+Community Hospital Corporation (CHC),550021,True,C,15,1312.0,,
+Lafayette General Health,550025,False,B,8,903.0,,
+St Charles Health System,550026,False,B,4,339.0,,
+Loma Linda University Health,550027,True,A,7,1218.0,Kat Caminiti,West
+Sunrise Health (Part of HCA Far West),550031,False,D,4,1282.0,,
+CHRISTUS St Michael Health System,550035,False,D,3,562.0,,
+Southcoast Health System,550045,False,B,4,1303.0,Nassera Vezelis,Northeast
+Bellin Health,550056,True,B,3,345.0,,
+Community Health Network (Indianapolis IN),550058,True,B,6,1157.0,,
+UCHealth (AKA University of Colorado Health),550060,True,A,14,2820.0,,
+Commonwealth Health,550062,False,D,6,1244.0,,
+Methodist Hospitals,550065,False,C,2,647.0,,
+NeuroPsychiatric Hospitals (FKA Physicians Hospital System),550071,False,D,4,273.0,,
+El Camino Hospital System,550073,False,C,2,601.0,,
+Union Hospital Health Group,550075,False,C,2,289.0,,
+Penn Highlands Healthcare,550077,True,C,4,468.0,,
+Thomas Health System,550085,False,C,2,348.0,,
+SUNY Upstate Medical University,550087,False,B,3,1051.0,,
+Kennedy Health System,550091,False,A,3,842.0,DNA,MidAtlantic
+St Vincent Health Services,550108,True,D,2,492.0,,
+Northwestern Medicine (AKA Northwestern Memorial Healthcare),550112,False,A,6,1602.0,Evanna Shopoff,Midwest
+Oklahoma Heart Hospital Health System,550117,True,C,2,143.0,,
+Blessing Health System,550120,False,D,3,347.0,,
+Hallmark Health System,550122,False,C,2,425.0,,
+Haven Behavioral Healthcare,550127,False,D,7,406.0,,
+Medical Management Options (MMO) Behavioral Health Systems,550130,False,D,2,75.0,,
+CHRISTUS Good Shepherd Health System,550131,False,D,2,507.0,,
+Community Howard Regional Health,550132,True,D,2,186.0,,
+Good Shepherd Rehabilitation Network,550133,False,C,2,429.0,,
+Memorial Health System (Marietta OH),550134,False,C,2,240.0,,
+Touro Infirmary Health System,550136,False,C,1,316.0,,
+Largo Medical Center Health System (HCA West Florida Division),550137,False,D,2,521.0,,
+St Josephs / Candler,550151,False,C,2,495.0,,
+Western Connecticut Health Network,550152,True,B,3,799.0,,
+UPMC Pinnacle (FKA Pinnacle Health Hospitals),550155,False,B,9,1631.0,,
+RCCH HealthCare Partners (FKA RegionalCare Hospital Partners),550159,True,C,16,2198.0,,
+Highpoint Health System,550164,False,D,4,357.0,,
+Navicent Health (FKA: Central Georgia Health System),550165,False,B,8,1073.0,,
+Avanti Hospitals,550167,False,B,4,497.0,,
+Cambridge Health Alliance,550171,False,B,3,576.0,,
+Albany Medical Center Health System,550174,False,B,3,1048.0,Nassera Vezelis,MidAtlantic
+Childrens Mercy Hospital and Clinics,550175,True,C,2,351.0,,
+Texas Childrens Hospital,550179,True,A,7,3444.0,Ty Griffing,Southwest
+CHRISTUS Santa Rosa Health System,550181,True,D,5,1098.0,,
+TriStar Health,550190,False,C,15,2890.0,,
+Benefis Health System,550195,True,B,4,767.0,,
+Keck Medicine of USC (AKA: USC Health),550197,False,B,3,540.0,OPEN,West
+Physicians For Healthy Hospitals,550198,False,D,2,501.0,,
+University Of Wisconsin Health (UW Health),550200,False,B,4,973.0,Evanna Shopoff,Midwest
+Acuity Healthcare,550206,False,D,5,357.0,,
+SoutheastHEALTH,550210,False,D,4,316.0,,
+Metro Pavia Health System,550213,False,B,12,1505.0,,
+Cabell Huntington Hospital Health System,550214,False,B,4,1058.0,Kent DeShazo,South
+Kalispell Regional Healthcare,550492,True,B,3,341.0,,
+Strategic Behavioral Health,550766,False,D,10,1293.0,,
+RML Specialty Hospital System,550770,False,D,2,326.0,,
+The Hospitals of Providence (FKA Sierra Providence Health Network),550777,True,B,6,1416.0,,
+Rideout Health (Fremont - Rideout Health Group),550785,False,C,2,379.0,,
+University Of Miami Health System (AKA UHealth),550809,False,D,3,572.0,,
+AMG Integrated Healthcare Management,550817,False,D,14,787.0,,
+Shannon Health,550823,False,B,3,624.0,,
+Opelousas General Health System,550827,False,C,2,355.0,,
+US Navy Medicine,551506,False,C,11,1716.0,,
+US Army Medicine,551507,True,C,19,2964.0,,
+US Department of Defense Military Health System,551508,False,D,2,312.0,,
+US Air Force Medicine,551511,False,C,9,1404.0,,
+Eastern Niagara Health System,551559,False,C,2,283.0,,
+Maine General Health,551561,True,C,1,192.0,,
+US HealthVest,551609,False,C,4,598.0,,
+AMITA Health Adventist Midwest Health,551611,True,B,4,718.0,,
+Circle Health,551786,False,C,2,565.0,,
+University of California San Francisco Health System (UCSF Health),551802,False,A,6,1511.0,Kat Caminiti,West
+CHRISTUS Spohn Health System,551810,False,C,6,1324.0,,
+Tift County Hospital Authority,551815,False,C,2,321.0,,
+Landmark Hospitals,551831,False,D,7,282.0,,
+Cedars-Sinai Health System,551851,False,C,2,983.0,,
+Cookeville Regional Medical Center System,552378,False,C,3,312.0,,
+Cheyenne Regional Health System,552403,True,C,2,380.0,,
+Whittier Health Network,552443,False,D,3,219.0,,
+Nexus Health Systems,552445,False,D,5,468.0,,
+New York State Office of Mental Health,552464,False,B,24,4450.0,,
+UnityPoint Health Trinity (FKA: Trinity Regional Health System),552516,True,B,4,626.0,,
+UVA Health System (AKA: University Of Virginia Health System),552518,False,A,3,793.0,Mike Barr,South
+Bingham Memorial Hospital System,552962,False,D,2,241.0,,
+Telecare Corporation,553052,False,B,6,796.0,OPEN,West
+Allegiance Health Management,553122,False,D,11,459.0,,
+University of Iowa Health Care Health System,553233,False,B,5,958.0,Evanna Shopoff,Midwest
+Tufts Medical Center Health System,553235,False,C,2,542.0,,
+Portneuf Health Partners (FKA: Portneuf Medical Center Health System),553296,False,D,2,323.0,,
+Wheeling Hospital System,553322,False,B,3,404.0,,
+California Pacific Medical Center,553323,False,A,5,1245.0,Kat Caminiti,West
+St Vincent Hospital (FKA St Vincent Health System),553340,False,C,2,323.0,,
+HCA Gulf Coast Division,553375,False,D,4,890.0,,
+Floyd Medical Center System,553389,False,C,2,241.0,,
+Wise Regional Health System,553437,False,C,3,470.0,,
+Carle Health System,553442,False,B,3,502.0,Evanna Shopoff,Midwest
+Childrens Health (AKA Childrens Health System of Texas FKA Childrens Medical Center Dallas),560400,False,B,3,380.0,,
+CHI St Alexius Health (FKA St Alexius Medical Center System),560403,False,B,5,347.0,,
+Lake Health,560419,False,C,2,502.0,,
+San Luis Valley Health,560421,True,D,2,173.0,,
+University of California (UC) Health,560423,False,C,1,415.0,,
+VCU Health,560425,False,A,7,1811.0,DNA,South
+Hoag Health System,560434,False,A,3,755.0,Kat Caminiti,West
+Tennessee Health Management,560439,False,D,5,234.0,,
+Carrus Hospitals,560450,False,D,2,40.0,,
+Madonna Rehabilitation Hospital System,560453,False,D,3,279.0,,
+Minnesota Department Of Human Services,560458,False,D,9,518.0,,
+Penn State Hershey Health System,560460,False,B,4,948.0,Nassera Vezelis,MidAtlantic
+Billings Clinic Health System,560471,True,B,11,751.0,,
+UnityPoint Health Fort Dodge (FKA: Trinity Health Systems),560472,False,C,6,341.0,,
+Wesley Healthcare (HCA Continental Division),560474,False,D,3,778.0,,
+UnityPoint Health Waterloo (FKA: Allen Health System),560475,False,C,2,215.0,,
+UnityPoint Health Des Moines (FKA: Iowa Health - Des Moines),560478,False,B,5,845.0,,
+St Johns Riverside Health System,560485,False,B,3,642.0,,
+North Oaks Health System,560488,False,C,2,371.0,,
+Northeast Alabama Regional Medical Center Health System (AKA: RMC),574616,False,C,3,453.0,,
+Licking Memorial Health Systems,574617,True,C,1,227.0,,
+St Lawrence Health System,574625,False,D,2,119.0,,
+Surgery Partners (FKA Symbion Healthcare),574627,True,D,16,563.0,,
+United Surgical Partners International (USPI),574628,False,D,5,122.0,,
+Surgical Care Affiliates (SCA),574698,False,D,7,107.0,,
+Edward-Elmhurst Health,574823,False,A,3,690.0,Evanna Shopoff,Midwest
+Holzer Health System,574848,False,C,2,221.0,,
+University of Kansas Health System,574851,False,B,3,1024.0,Evanna Shopoff,Midwest
+Christ Hospital System (AKA: The Christ Hospital Health Network),574855,False,C,2,656.0,,
+Confluence Health,575032,False,C,2,218.0,,
+George Regional Health System,575036,False,D,2,49.0,,
+Upper Allegheny Health System,575043,False,C,1,182.0,,
+Michigan Department of Health & Human Services,575075,False,C,5,898.0,,
+University Health Care System,575334,False,B,3,718.0,,
+Allied Services Integrated Health System,575367,False,D,2,229.0,,
+Central Maine Healthcare (AKA: Central Maine Medical Family),575745,False,C,3,291.0,,
+HCA MountainStar Healthcare,575765,False,D,11,1306.0,,
+Victory Healthcare (Closed - declared bankruptcy June 2015),575801,False,D,2,312.0,,
+Granite Healthcare Network,575814,False,B,3,561.0,DNA,Northeast
+Prospect Medical Holdings,575843,False,A,6,1499.0,OPEN,West
+Fundamental Long-Term Care Holdings,575884,False,D,4,680.0,,
+Texas Department of State Health Services,575888,False,C,12,2684.0,,
+HCA Mid America Division (AKA HCA Midwest Health),575965,False,C,12,2298.0,,
+Owensboro Health,575968,False,C,2,567.0,,
+Lake Charles Memorial Health System,576754,True,B,4,651.0,,
+Optim Healthcare,576901,False,D,2,50.0,,
+SwedishAmerican Health System,577353,False,C,2,480.0,,
+Baylor Scott & White Health,577357,True,A,52,6850.0,Kent DeShazo,Southwest
+Crestwood Behavioral Health,577358,False,C,6,936.0,,
+Post Acute Medical,577429,False,C,25,1612.0,,
+Great Lakes Health System of Western New York,577493,False,C,1,888.0,,
+Augusta University Health (FKA Georgia Regents Health System),577520,False,B,5,897.0,,
+Midland Memorial Health,577560,False,D,2,376.0,,
+Spine Hospital of Louisiana,577562,False,D,2,50.0,,
+OU Medicine,577581,False,D,3,1027.0,,
+UChicago Medicine (FKA University of Chicago Medicine),577631,False,A,4,1540.0,Evanna Shopoff,Midwest
+Tuality Healthcare,577646,False,C,2,373.0,,
+Mount Sinai Health System (FKA: Mount Sinai Medical Center),577655,False,A,10,3845.0,Nassera Vezelis,MidAtlantic
+St Lukes Cornwall Hospital Health System,577658,False,C,2,351.0,,
+Idaho Department of Health and Welfare,577667,False,D,2,291.0,,
+KVC Kansas Health System,577670,False,D,2,312.0,,
+OHSU (AKA: Oregon Health and Science University),577682,False,C,2,714.0,,
+CarePoint Health,577970,False,B,3,545.0,DNA,MidAtlantic
+Northeast Montana Health Services,578008,False,D,2,102.0,,
+Harnett Health,578012,False,C,2,307.0,,
+Community Hospitals and Wellness Centers,578018,False,C,3,258.0,,
+Saint Josephs Medical Center,579800,False,D,2,631.0,,
+NYU Langone Health (FKA NYU Langone Medical Center),579801,False,A,7,2573.0,Nassera Vezelis,MidAtlantic
+Kessler Institute for Rehabilitation,579803,False,C,4,533.0,,
+Sheltering Arms Physical Rehabilitation Centers,579822,False,D,2,68.0,,
+Unity Health,579926,True,B,4,612.0,,
+CHRISTUS Health Shreveport - Bossier Health System (FKA Christus Health Shreveport Health System),579928,False,D,3,489.0,,
+Mon Health (FKA Monongalia Health System),579939,True,C,3,284.0,,
+Westchester Medical Center Health Network,579946,True,B,3,1286.0,Nassera Vezelis,MidAtlantic
+St Theresa Specialty Hospital Health System,579953,False,C,2,231.0,,
+Barlow Respiratory Hospital System,581685,False,B,3,421.0,,
+Covenant HealthCare,581746,False,C,2,314.0,,
+HMC/CAH Consolidated (Rural Community Hospitals of America),581751,False,D,11,233.0,,
+Forrest Health,581767,True,C,6,840.0,,
+Community HealthCare System (Onaga KS),581813,False,C,2,183.0,,
+Correct Care Recovery Solutions (FKA GEO Care),581821,False,D,5,674.0,,
+Boulder Community Health,581823,True,C,2,314.0,,
+PIH Health,581825,False,C,2,312.0,,
+College Health Enterprises,581840,False,B,3,517.0,OPEN,West
+Kings Daughters Health System,581844,False,C,2,496.0,,
+Medical University of South Carolina Health System (AKA: MUSC Health),581951,False,B,4,1243.0,Mike Barr,South
+Delta Regional Medical Center,581952,False,D,2,314.0,,
+Mississippi County Hospital System,582099,False,D,2,334.0,,
+Louisiana Childrens Medical Center Health System (AKA: LCMC Health),582166,False,C,5,985.0,,
+Conway Regional Health System,582169,False,D,2,180.0,,
+Seaside Healthcare,582176,False,D,2,111.0,,
+Signature HealthCARE,582204,False,D,1,59.0,,
+Adirondack Health,582515,False,C,2,311.0,,
+LECOM Health (AKA: Millcreek Community Hospital),582517,False,C,2,188.0,,
+CareOne,582519,False,D,3,509.0,,
+Cornerstone Treatment Facilities Network,582520,False,D,2,312.0,,
+ArchCare Health System,582544,False,B,3,1036.0,,
+OakBend Medical Center Health System,582546,False,D,4,626.0,,
+University Health System (AKA BRF),582553,True,C,2,617.0,,
+Beacon Behavioral Health,583223,False,D,4,93.0,,
+Southern New Hampshire Health System,585102,True,C,2,314.0,,
+Nobilis Health Corp (FKA Northstar Healthcare),585278,True,D,4,401.0,,
+Mohawk Valley Health System,585279,False,B,3,630.0,,
+St Joseph Mercy Health System,585296,False,C,5,1405.0,,
+East Alabama Medical Center Health System,585384,False,C,2,684.0,,
+Ridgeview Medical Center Health System,585395,False,C,3,205.0,,
+Muscogee Creek Nation Health System,585396,False,D,4,134.0,,
+HonorHealth (FKA Scottsdale Lincoln Health Network),585502,False,B,7,1165.0,Evanna Shopoff,Southwest
+Loyola University Health System (AKA Loyola Medicine),585566,False,D,3,1080.0,,
+Los Angeles County Health Agency (FKA Los Angeles County Department of Health Services),6443,False,A,4,1605.0,Kat Caminiti,West
+Premier Health (FKA: Premier Health Partners),6445,False,A,5,1750.0,DNA,Midwest
+SSM Health,6446,False,D,1,58.0,,
+Texas Health Resources,6447,True,A,29,3825.0,Kent DeShazo,Southwest
+University of Pittsburgh Medical Center (UPMC),6448,False,A,21,3501.0,Nassera Vezelis,MidAtlantic
+St Lukes University Health Network,6449,True,A,18,2529.0,DNA,MidAtlantic
+Kaiser Permanente Northwest (AKA Kaiser Oregon/Washington),65653,True,B,4,750.0,Kat Caminiti,West
+SSM Health in Oklahoma,66754,False,B,7,946.0,,
+Avera Health,7000,False,B,34,2625.0,,
+Partners HealthCare,7001,True,A,15,3849.0,Nassera Vezelis,Northeast
+Asante,7002,False,B,3,484.0,,
+Summit Health,7003,False,C,2,327.0,,
+LifePoint Health (FKA: LifePoint Hospitals),7004,True,B,41,5045.0,,
+West Tennessee Healthcare,7005,False,B,6,976.0,,
+Davis Health System,7006,False,D,2,162.0,,
+Baptist Health (Louisville KY),7007,False,A,9,2353.0,Mike Barr,South
+UAB Medicine,7008,True,A,5,1760.0,Mike Barr,South
+Baptist Health (AR),7009,False,A,9,1468.0,Kent DeShazo,South
+Baptist Health South Florida,7010,False,A,7,1331.0,Mike Barr,South
+Beth Israel Deaconess Health System,7011,True,B,4,1094.0,,
+Indiana University Health System (AKA IU Health),7012,True,B,18,2152.0,,
+Select Medical Corporation,7013,False,B,104,6556.0,,
+UT Health East Texas (FKA East Texas Medical Center Regional Healthcare System),7014,False,D,11,1229.0,,
+NorthShore University Health System,7015,True,B,4,1263.0,Evanna Shopoff,Midwest
+HealthEast Care System,7016,False,B,4,663.0,DNA,Midwest
+Memorial Hermann Health System,7017,True,A,23,5590.0,Ty Griffing,Southwest
+Houston Methodist (FKA Methodist Hospital System),7021,False,A,9,1783.0,Ty Griffing,Southwest
+North Mississippi Medical Center System,7022,True,B,7,1063.0,Ty Griffing,South
+Parkview Health,7024,True,B,11,966.0,,
+SSM Health in Wisconsin,70253,False,B,7,599.0,DNA,Midwest
+Saint Lukes Health System (Kansas City  MO),7026,False,B,12,1155.0,,
+Mercy (MO),7027,True,B,39,5262.0,,
+Spartanburg Regional Healthcare System,7028,False,B,4,665.0,,
+UPMC Susquehanna,7029,False,C,7,708.0,,
+ThedaCare,7030,True,B,10,1023.0,,
+University of California San Diego Health System (AKA: UC San Diego Health),7031,False,A,5,1289.0,Kat Caminiti,West
+University of New Mexico Hospitals,7032,False,B,5,696.0,,
+Penn Medicine (AKA: University of Pennsylvania Health System),7033,False,A,6,2186.0,Nassera Vezelis,MidAtlantic
+Baptist Health (AL),7037,False,A,3,615.0,Mike Barr,South
+Alabama Department of Mental Health,7038,False,D,3,380.0,,
+Baptist Health Care (Pensacola FL),7039,False,B,3,412.0,,
+Brookwood Baptist Health (FKA Baptist Health System Birmingham AL),7040,False,A,5,1516.0,,
+Helen Keller Hospital Health System (FKA: Northwest Alabama Health Care Authority),7041,False,C,2,203.0,,
+Coffee Health Group,7042,False,D,2,542.0,,
+DCH Health System,7043,False,A,3,919.0,Mike Barr,South
+SunLink Health Systems,7045,False,D,1,120.0,,
+PeaceHealth,7046,False,A,10,1407.0,Evanna Shopoff,West
+Kindred Healthcare,7048,True,B,83,9510.0,,
+Northern Arizona Healthcare,7050,False,D,2,260.0,,
+White River Health System,7052,False,C,2,249.0,,
+Adventist Health,7053,True,A,15,2218.0,Kat Caminiti,West
+Ardent (FKA Ardent Health Services),7054,False,D,2,194.0,,
+Universal Health Services,7055,False,A,142,18863.0,DNA,MidAtlantic
+Aurora Behavioral Health Care (AKA: Signature Healthcare Services),7056,False,B,13,1495.0,,
+California Department of State Hospitals (FKA: California Department Of Mental Health),7057,False,B,8,2091.0,,
+Citrus Valley Health Partners,7058,False,B,3,419.0,,
+Cottage Health System,7059,True,B,4,560.0,,
+NorthBay Healthcare,7060,True,C,2,340.0,,
+St Joseph Health,7062,False,A,12,2401.0,Kat Caminiti,West
+NewYork-Presbyterian Healthcare System,7066,False,A,13,5096.0,Nassera Vezelis,MidAtlantic
+BayCare Health System,7067,False,A,15,3461.0,Mike Barr,South
+Catholic Health Services,7068,False,B,3,637.0,,
+Lee Health (AKA: Lee Memorial Health System),7069,False,A,5,1707.0,Ty Griffing,South
+Memorial Healthcare System (FL),7070,False,A,6,2151.0,Mike Barr,South
+Hawaii Health Systems Corp (HHSC),7072,True,B,9,802.0,,
+Hawaii Pacific Health,7073,True,A,4,929.0,,
+St Lukes Health System (Boise ID),7074,False,B,10,1388.0,,
+AMITA Health Alexian Brothers Health System,7075,True,A,4,961.0,DNA not needed,Midwest
+BJC HealthCare,7076,False,A,13,5900.0,Evanna Shopoff,Midwest
+Hospital Sisters Health System (HSHS),7077,False,C,17,1957.0,,
+Southern Illinois Healthcare,7079,False,C,3,298.0,,
+Kansas Department of Aging and Disabilities (AKA Kansas Department of Social and Rehabilitation Services),7082,False,D,4,567.0,,
+Ascension Via Christi Health,7084,True,D,8,1286.0,,
+Compass Health,7086,False,D,4,90.0,,
+Cornerstone Healthcare Group,7087,False,B,19,1576.0,,
+Oceans Healthcare,7089,False,C,15,650.0,,
+Promise Healthcare,7090,False,B,16,1465.0,,
+Willis - Knighton Health System,7091,False,B,5,784.0,,
+Adventist HealthCare (MD),7092,False,B,6,1084.0,,
+LifeBridge Health,7093,False,A,5,1322.0,Nassera Vezelis,MidAtlantic
+University of Maryland Medical System,7094,False,B,10,1581.0,,
+Arbour Health System,7095,False,C,5,619.0,,
+Berkshire Health System,7096,False,C,2,300.0,,
+Massachusetts Bureau of Public Health Facilities,7097,False,C,10,1620.0,,
+MidMichigan Health,7098,False,B,5,617.0,,
+Munson Healthcare,7099,False,D,8,893.0,,
+CentraCare Health System,7102,True,A,10,3388.0,,
+Fairview Health Services,7103,False,A,9,1854.0,Evanna Shopoff,Midwest
+Mayo Clinic Health System,7104,True,A,25,5771.0,Evanna Shopoff,Midwest
+Rush Health Systems,7105,False,D,7,356.0,,
+Singing River Health System,7106,True,C,2,542.0,,
+Dartmouth-Hitchcock Health,7107,True,B,7,1098.0,,
+Ernest Health,7109,False,D,26,1134.0,,
+Indian Health Service,7110,False,D,5,259.0,,
+Guthrie Healthcare,7111,False,D,4,443.0,,
+NYC Health and Hospitals (FKA New York City Health and Hospitals Corporation),7112,False,A,13,5168.0,Nassera Vezelis,MidAtlantic
+Appalachian Regional Healthcare System,7114,False,C,2,129.0,,
+FirstHealth Of The Carolinas,7115,False,B,4,784.0,Mike Barr,South
+New Hanover Health Network,7116,False,B,5,1289.0,,
+Erlanger Health System,7120,False,B,5,1156.0,Mike Barr,South
+Methodist Healthcare (AKA: Methodist Le Bonheur Healthcare),7121,False,C,6,2066.0,,
+The Queens Health Systems,7122,False,D,4,306.0,,
+Adventist Health Central Valley Network,7123,False,B,4,589.0,,
+Eastern Maine Healthcare System (EMHS),7126,True,B,8,824.0,,
+HealthPartners,7127,True,B,5,606.0,,
+Virtua Health,7130,False,A,3,1079.0,Nassera Vezelis,MidAtlantic
+Detroit Medical Center,7134,False,C,8,1709.0,,
+Agnesian Healthcare,7135,False,D,3,183.0,,
+Beverly Hospital System (FKA: Northeast Health System),7137,False,A,3,680.0,,
+Martin Health System,7140,False,B,3,748.0,,
+Carondelet Health Network (AZ),7142,False,D,4,1069.0,,
+Bon Secours Charity Health System,7150,False,B,3,514.0,Mike Barr,MidAtlantic
+Ascension in Wisconsin (FKA Ministry Health Care),7151,True,D,10,585.0,,
+Prospect CharterCARE Health Partners,7152,False,C,2,472.0,,
+Eastern Connecticut Health Network,7153,False,C,2,403.0,,
+Allegheny Health Network (FKA West Penn Allegheny Health System),7155,False,A,6,1818.0,Nassera Vezelis,MidAtlantic
+Health Quest,7164,False,B,4,675.0,Nassera Vezelis,MidAtlantic
+University of Rochester Medical Center,7167,False,A,6,1634.0,Nassera Vezelis,MidAtlantic
+Tanner Health System,7168,False,B,5,476.0,,
+Main Line Health,7178,False,A,6,1285.0,DNA,MidAtlantic
+AcuteCare Health System,7180,False,D,1,50.0,,
+AHMC Healthcare,7181,False,A,7,1246.0,Kent DeShazo,West
+Alameda Health System (FKA: Alameda County Medical Center),7182,False,A,3,644.0,Kat Caminiti,West
+Einstein Healthcare Network (FKA Albert Einstein Healthcare Network),7183,False,B,3,1023.0,DNA,MidAtlantic
+AtlantiCare - A Member of Geisinger Health System,7184,False,C,2,699.0,,
+Bronson Healthcare,7187,False,B,5,855.0,DNA,Midwest
+Cancer Treatment Centers of America,7188,False,D,5,393.0,,
+Cape Cod Healthcare,7189,True,C,2,518.0,,
+Care New England,7190,True,C,3,546.0,,
+Catholic Health Services of Long Island,7191,False,A,6,2168.0,DNA,MidAtlantic
+Charleston Area Medical Center (CAMC) Health System,7192,False,A,4,1342.0,Kent DeShazo,South
+Piedmont Columbus Regional (FKA Columbus Regional Healthcare System - Georgia),7193,False,D,5,648.0,,
+Commonwealth Health Corporation (AKA Med Center Health),7194,False,C,6,565.0,,
+Community Healthcare System (Munster IN),7195,False,B,4,1031.0,DNA not needed,Midwest
+The Community Medical Centers Healthcare Network,7196,False,A,4,1330.0,Kent DeShazo,West
+Cook County Health & Hospitals System,7197,False,C,2,473.0,,
+DeKalb Medical (FKA: Dekalb Regional Health System),7200,False,B,3,547.0,Mike Barr,South
+Excela Health,7202,True,B,3,653.0,,
+Finger Lakes Health,7203,True,C,2,663.0,,
+Franciscan Missionaries of Our Lady Health System (FMOL),7205,False,A,9,1890.0,Kent DeShazo,South
+Franciscan Sisters of Christian Charity Sponsored Ministries Inc (AKA: Franciscan Sisters Of Christian Charity Healthcare Ministry),7206,True,D,2,214.0,,
+Freeman Health System,7207,True,B,3,574.0,,
+Heritage Valley Health System,7208,False,C,2,400.0,,
+Infirmary Health System,7209,False,A,5,959.0,Ty Griffing,South
+Jefferson Health,7210,False,A,4,1239.0,Nassera Vezelis,MidAtlantic
+Archbold Medical Center,7212,False,C,4,580.0,,
+Johns Hopkins Health System (AKA Johns Hopkins Medicine),7213,False,A,7,2473.0,Nassera Vezelis,MidAtlantic
+KishHealth System,7214,False,D,2,123.0,,
+Lakeland Healthcare (AKA: Lakeland Health),7215,False,B,3,502.0,,
+LRGHealthcare,7216,False,D,2,131.0,,
+LifeCare Health Partners,7218,False,B,21,2225.0,,
+Marshall Medical Centers,7220,False,C,2,362.0,,
+Mary Washington Healthcare,7221,False,A,3,669.0,DNA,South
+CHI St Lukes Health Memorial (FKA Memorial Health System Of East Texas),7223,False,D,4,257.0,,
+Methodist Health System,7225,True,B,9,1502.0,,
+Mission Health System,7226,False,B,10,1305.0,Mike Barr,South
+Noland Health Services,7227,False,D,6,270.0,,
+Northside Hospital System,7228,False,A,3,860.0,Mike Barr,South
+Palomar Health,7229,True,B,3,550.0,,
+Acadia Healthcare,7230,False,C,28,2768.0,,
+Regional Health,7232,False,B,9,772.0,DNA,Midwest
+Rush (AKA Rush Health),7233,True,A,5,1613.0,Evanna Shopoff,Midwest
+Trinity Health New England (FKA Saint Francis Care),7234,False,D,5,1054.0,,
+Saint Francis Health System,7235,True,B,9,2241.0,,
+Lehigh Valley Hospital - Schuylkill (FKA Schuylkill Health System),7236,False,D,2,196.0,,
+University of Florida Health (FKA: Shands Healthcare),7237,False,B,8,2389.0,,
+University of Maryland Shore Regional Health (FKA: Shore Health System),7238,False,B,3,362.0,,
+Sinai Health System,7239,False,B,4,791.0,,
+Sisters of Charity of Leavenworth Health System (SCL),7240,True,B,13,2327.0,,
+Sisters Of Charity Health System,7241,False,D,2,511.0,,
+Sisters Of Mary Of Presentation Health System,7242,False,D,4,222.0,,
+Tennova Healthcare,7247,False,C,17,2473.0,,
+University of Maryland Capital Region Health (FKA: Dimensions Healthcare System),7255,True,C,3,539.0,,
+Phoebe (FKA Phoebe Putney Health System),7267,False,B,5,775.0,,
+Orlando Health,7268,True,B,10,3657.0,,
+CHI St Vincent (St Vincent Health System),7273,True,D,6,937.0,,
+Encompass Health Corporation (FKA HealthSouth),7277,True,B,130,10313.0,,
+Phoenix Area Indian Health Service,73411,False,D,5,325.0,,
+Alaska Area Native Health Service,73412,False,D,6,266.0,,
+Albuquerque Area Indian Health Service,73413,False,D,4,48.0,,
+Bemidji Area Indian Health Service,73416,False,D,2,36.0,,
+Ventura County Health Care Agency,764477,False,C,2,428.0,,
+Holy Cross Health,764498,False,D,2,548.0,,
+Johnston Health,764503,True,C,2,357.0,,
+Rogers Behavioral Health System,764534,False,B,3,543.0,,
+Las Palmas Del Sol Healthcare (HCA Central & West Texas),775666,False,D,3,877.0,,
+Rochester Regional Health System,775748,False,B,6,1801.0,,
+KPC Group (AKA KPC Healthcare),778798,False,B,5,804.0,OPEN,West
+BridgePoint Healthcare (FKA Specialty Hospitals of Washington),778828,False,D,3,365.0,,
+USA Healthcare,778832,False,D,1,40.0,,
+HCA Capital Division - HCA Virginia Health System,780648,False,C,11,2802.0,,
+HCA Continental Division (AKA HCA HealthONE),780649,True,B,17,4226.0,,
+Medical City Healthcare (AKA HCA North Texas Region),780650,True,C,15,2802.0,,
+HCA Far West Division,780651,False,C,7,1836.0,,
+HCA North Florida Division,780652,True,C,12,2706.0,,
+HCA West Florida Division,780653,False,B,16,3601.0,,
+HCA East Florida Division,780654,False,B,15,4411.0,,
+HCA Healthcare Gulf Coast Division,780655,False,C,15,3050.0,,
+HCA South Atlantic Division,780656,False,B,12,3110.0,,
+Little River Healthcare,780807,False,D,3,77.0,,
+Alecto Healthcare Services,780811,True,B,6,1114.0,,
+Cayuga Health System,780814,False,C,2,330.0,,
+Stars Behavioral Health Group,781940,False,C,2,312.0,,
+NCH Healthcare System,786,False,C,2,767.0,,
+Preferred Management Healthcare Specialists,794497,False,D,9,183.0,,
+Baton Rouge General Medical Center Health System,794504,False,C,2,523.0,,
+Bronx - Lebanon Hospital Center Health System,794507,False,C,2,724.0,,
+Cincinnati Childrens Hospital Health System,794521,False,C,2,750.0,,
+Boys Town National Research Hospital,794551,False,C,2,219.0,,
+Curae Health,795585,False,D,5,551.0,,
+Regional One Health,800694,True,C,2,350.0,,
+LHC Group,809519,False,D,7,507.0,,
+Merit Health,810788,False,C,9,1552.0,,
+North Memorial Health (FKA North Memorial Health Care),822687,False,C,2,519.0,,
+Southern Tennessee Regional Health System,825816,False,D,4,611.0,,
+Aultman Health Foundation,825969,True,B,4,745.0,,
+USMD Health System,825985,False,D,2,190.0,,
+River Oaks Hospital Health System,826195,False,C,2,284.0,,
+Physicians Regional Healthcare System,826401,False,D,2,359.0,,
+Southwest Health System,826421,True,C,2,185.0,,
+Washington Health System,829040,False,C,2,300.0,,
+Community Hospital Corporation ContinueCARE,829045,False,D,13,692.0,,
+NueHealth (FKA Nueterra),829065,False,D,4,357.0,,
+Hackensack Meridian Health,829066,False,B,17,4219.0,,
+Stanford Health Care,829072,False,A,3,842.0,Kat Caminiti,West
+West Virginia Bureau for Behavioral Health and Health Facilities,829100,False,C,5,688.0,,
+Silver Lake Medical Center Health System,833116,False,C,2,369.0,,
+Sheppard Pratt Health System,833124,False,C,2,494.0,,
+Trinity Health,833134,True,C,3,339.0,,
+Mid Coast-Parkview Health,833264,False,D,1,92.0,,
+UMC Health System,833514,True,C,2,589.0,,
+Larkin Community Hospital Health System,835784,False,C,3,368.0,,
+Crouse Hospital Health System,835785,False,C,2,514.0,,
+Stony Brook Medicine (AKA: Stony Brook University Hospital System),835849,False,B,4,942.0,,
+RWJBarnabas Health,835851,False,A,17,4667.0,,
+South Cameron Memorial Hospital Health System,835865,False,D,2,207.0,,
+Union General Hospital System,836336,True,C,2,336.0,,
+Quorum Health Corporation,837570,False,C,28,2298.0,,
+AltaPointe Health Systems,837797,False,C,2,222.0,,
+SageWest Health Care,837828,True,D,2,312.0,,
+Sundance Behavioral Healthcare System,840521,False,C,2,388.0,,
+Washington State Department of Social and Health Services,840541,False,B,3,1244.0,,
+St Bernards Healthcare,840542,False,B,3,395.0,,
+Meadville Medical Center,840548,False,C,2,244.0,,
+Iberia Medical Center Health System,840560,False,C,2,292.0,,
+Federal Bureau of Prisons,840595,False,D,8,1248.0,,
+Altus Health,841655,False,D,2,312.0,,
+Doctors Hospital at Renaissance,841666,True,A,5,1494.0,Ty Griffing,Southwest
+Bayfront Health,841719,False,C,7,1532.0,,
+Texas General Hospital Health System,842942,False,D,2,197.0,,
+Trios Health,842966,False,C,2,269.0,,
+Critical Access Healthcare,842969,False,D,2,46.0,,
+Success Healthcare,842971,False,C,1,178.0,,
+Springstone Inc,842974,False,C,16,1497.0,,
+Kaweah Delta Health Care District,842978,False,C,2,737.0,,
+Tennessee Department of Mental Health and Substance Abuse,842979,False,D,4,577.0,,
+Ohio Department of Mental Health & Addiction Services,842980,False,D,6,1135.0,,
+Grays Harbor Community Hospital System,842981,False,C,2,263.0,,
+Bozeman Health,842982,True,D,2,87.0,,
+Rhode Island Department of Behavioral Healthcare Developmental Disabilities and Hospitals,842983,False,D,2,653.0,,
+Arkansas Childrens Hospital System,842984,False,C,2,492.0,,
+Marshfield Clinic Health System,842985,False,B,5,723.0,,
+Missouri Department of Mental Health,842987,False,D,6,1103.0,,
+SUNY Health Sciences Centers,842990,False,C,1,323.0,,
+Florida Department of Children and Families,842991,False,D,2,108.0,,
+Nebraska Medicine,842992,False,B,3,716.0,DNA,Midwest
+North Carolina Division of Mental Health & Developmental Disabilities & Substance Abuse,842994,False,B,6,1353.0,,
+Maxim Management Group,842995,False,D,3,78.0,,
+SUN Behavioral Health,842996,False,D,4,616.0,,
+Mississippi Department of Mental Health,842998,False,D,5,422.0,,
+Louisiana Department of Health & Hospitals - Office of Behavioral Health,842999,False,C,2,354.0,,
+Alliant Management Services,843000,False,D,7,277.0,,
+Nebraska Department of Health & Human Services,843001,False,D,3,548.0,,
+Maryland Department of Health & Mental Hygiene,843002,False,C,6,1576.0,,
+JCE Healthcare,843003,False,D,2,64.0,,
+One Cura Wellness,843004,False,D,2,50.0,,
+Oglethorpe Inc,843006,False,D,8,551.0,,
+ER Hospitals LLC (AKA: ER Healthcare),843007,False,D,4,194.0,,
+California Department of Corrections and Rehabilitation,843010,False,C,2,312.0,,
+Oregon Health Authority,843029,False,D,2,312.0,,
+Childrens Hospital Colorado System,843031,True,B,3,988.0,,
+Cobalt Medical Development,844322,True,D,4,485.0,,
+Novant Health UVA Health System,845299,True,C,2,130.0,,
+St Peters Healthcare System,845343,False,D,2,517.0,,
+Kaiser Permanente - Southern California Region,845346,True,A,23,7081.0,Kat Caminiti,West
+Kaiser Permanente - Northern California Region,845347,True,A,46,8072.0,Kat Caminiti,West
+Great Plains Health Alliance (GPHA),846981,False,D,25,832.0,,
+Providence Health & Services - Alaska,846984,False,B,5,650.0,,
+Providence Health & Services - California,846985,False,A,6,2073.0,Kat Caminiti,West
+Providence Health & Services - Montana,846986,False,C,2,210.0,,
+Providence Health & Services - Oregon and Southwest Washington,846987,False,A,8,1262.0,Kat Caminiti,West
+Providence Health & Services - Washington,846988,False,A,10,2338.0,Kat Caminiti,West
+South Carolina Department of Mental Health,847804,False,D,3,747.0,,
+Illinois Department of Human Services,847805,False,D,7,921.0,,
+Prime Healthcare Services Foundation,847806,True,B,13,1988.0,,
+T J Regional Health,847812,False,D,1,133.0,,
+New Vision Health LLC,849608,False,D,2,55.0,,
+Medical Facilities Corporation,849785,False,D,5,153.0,,
+Georgia Department of Behavioral Health and Developmental Disabilities (AKA Central State Hospital - System),851725,False,D,5,532.0,,
+Paladin Healthcare,853435,True,B,3,780.0,,
+Navajo Area Indian Health Service,854625,False,D,6,578.0,,
+Billings Area Indian Health Service,854626,False,D,3,56.0,,
+Great Plains Area Indian Health Services,854635,False,D,7,149.0,,
+Oklahoma City Area Indian Health Service,854636,False,D,4,283.0,,
+San Francisco Department of Public Health,854637,False,C,2,1177.0,,
+Mennonite General Hospital System,854639,False,B,4,688.0,,
+Skagit Regional Health,854685,False,D,2,185.0,,
+Nashville Area Indian Health Service,854687,False,D,1,20.0,,
+Ivy Creek Healthcare,856662,False,C,3,101.0,,
+Concord Healthcare Group,856822,False,D,4,153.0,,
+Coastal Harbor Health System,858050,False,C,2,355.0,,
+Kaiser Permanente Hawaii,858058,True,C,1,295.0,,
+SSM Health - Missouri,858431,False,A,15,3181.0,Kent DeShazo,Midwest
+SSM Health in Illinois,858433,False,B,3,279.0,,
+Anderson Hospital Health System,858610,False,D,2,175.0,,
+Indiana State Psychiatric Hospitals,860797,False,D,6,999.0,,
+Maui Health System,866875,True,C,3,356.0,,
+St Lukes Health System (Duluth MN),866880,True,C,2,273.0,,
+Virginia Mason Health System,867056,False,C,2,449.0,,
+Safe Haven Health Care,867142,False,D,2,172.0,,
+WoodRidge Behavioral Care,867149,False,D,2,68.0,,
+HealthCare Conglomerate Associates,867258,False,D,1,37.0,,
+CuraHealth Hospitals,868847,False,D,9,753.0,,
+Hacienda Healthcare,868872,False,D,1,156.0,,
+HIMA San Pablo Hospitals,868905,False,B,5,1199.0,,
+EvergreenHealth,870059,False,C,2,345.0,,
+Metroplex Health System,872491,False,C,2,233.0,,
+Everest Rehabilitation Hospitals,902344,False,D,3,468.0,,
+GraniteOne Health,902544,True,D,2,50.0,,
+CommuniCare Health Services,902957,False,D,2,70.0,,
+Sparks Health System,903343,False,D,2,304.0,,
+United Medical Physical Rehabilitation Hospitals,903472,False,D,3,55.0,,
+Methodist Hospital (System),91433,False,D,2,143.0,,
+Foundation Health Partners,916884,False,D,1,212.0,,
+CenterPointe Hospitals,923677,False,D,3,284.0,,
+Volunteers of America,923680,False,D,1,24.0,,
+Centerstone,925108,False,D,1,37.0,,
+Alita Care (AKA Sunspire Health),925109,False,D,2,246.0,,
+Duncan Regional Hospital System,925239,True,D,2,146.0,,
+Assurance Health System,928206,False,D,3,334.0,,
+WellBridge Healthcare,936024,False,D,3,120.0,,
+Stanford Childrens Health,938975,False,C,1,302.0,,
+Beloit Health System,938988,True,C,2,261.0,,
+Perimeter Healthcare,939309,False,D,1,156.0,,
+HCA Capital Division,939527,False,D,4,559.0,,
+Four Winds Hospitals,939541,False,D,2,263.0,,
+Kentucky Cabinet for Health and Family Services,939781,False,D,2,334.0,,
+Professional Hospitals,939816,False,D,2,210.0,,
+University of Illinois Hospital & Health Sciences System (AKA UI Health),939855,False,C,2,673.0,,
+HPI Community Hospital,939857,False,D,2,203.0,,
+Forest Health Medical Center System,939859,False,D,2,180.0,,
+Malvern Institute Recovery Centers,939861,False,D,2,314.0,,
+Cleveland Emergency Hospital System,941227,False,D,2,160.0,,
+Americore Health,941914,False,D,2,202.0,,
+Akron Childrens Hospital,942073,False,C,2,559.0,,
+Northwest Healthcare,944870,False,D,2,440.0,,
+Sovah Health,946012,False,D,2,470.0,,
+Astria Health (FKA Regional Health),948890,False,D,3,200.0,,
+AllianceHealth Oklahoma,950916,False,D,8,860.0,,
+Carolinas Hospital System,950917,False,D,3,740.0,,
+UP Health System,950927,False,D,2,121.0,,
+The Brook Hospitals,950928,False,D,2,130.0,,
+Tower Health,951098,False,B,6,1408.0,,
+University of Texas Medical Branch Health (UTMB Health),951109,False,B,5,1193.0,,
+CHRISTUS Southeast Texas,951112,False,D,5,826.0,,
+CHRISTUS St Frances Cabrini Health System (AKA CHRISTUS Health Central Louisiana),954977,True,D,2,326.0,,
+Parkridge Health System,955251,False,D,4,946.0,,
+North Country Healthcare,955710,False,D,4,91.0,,
+Eating Recovery Center,957428,False,D,5,780.0,,
+Hendricks Regional Health,957651,True,D,2,285.0,,
+Saint Clares Health,957652,False,D,3,683.0,,
+Ascentium Healthcare Resources,963382,False,D,4,307.0,,
+Ballad Health,963398,True,A,21,3360.0,Mike Barr,South
+Heywood Healthcare,963615,False,D,2,159.0,,
+BSA Health System,963790,True,D,3,635.0,,
+Froedtert South,965069,True,D,2,387.0,,
